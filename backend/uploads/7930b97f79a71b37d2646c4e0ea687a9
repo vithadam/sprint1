@@ -1,0 +1,6 @@
+id,name,price,stock,category
+101,Gold Ring,150.0,84,Pendant
+102,Silver Necklace,200.0,72,Earrings
+103,Diamond Earrings,500.0,95,Necklace
+104,Pearl Bracelet,120.0,22,Ring
+105,Ruby Pendant,250.0,79,Bracelet
